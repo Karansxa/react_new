@@ -25,7 +25,7 @@ function App() {
       <button style={{fontSize:30}} onClick={() => {console.log('Hello'); console.log('Hello')}}>Click Me</button>
       <select style={{fontSize: 20}}>
         <option>male</option>
-        <option></option>
+        <option>URI</option>
       </select>
       <div>{count}</div>
     </div>
